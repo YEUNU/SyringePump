@@ -14,8 +14,11 @@ SyringePump : https://en.wikipedia.org/wiki/Syringe_driver
 ## 3. Component
 
 Raspberry Pi (Raspberry Pi 3 Model B)
+
 Raspberry Pi Touch Display (7 inch)
+
 Arudino nano
+
 Stepper Motor IHSV57 (https://www.jmc-motor.com/product/901.html)
 
 ## 4. WorkFlow
